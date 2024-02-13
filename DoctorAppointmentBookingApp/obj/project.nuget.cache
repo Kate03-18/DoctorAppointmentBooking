@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/5FSsRowYZv8fB7cMsyG2y4CIxzu5+9suEMsGZbSm92SoLa97QR+ZG4B0H4EdgmA7WkRAW3o5ZQLnZL7z8ORw==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio\\Repos\\DoctorAppointmentBookingApp\\DoctorAppointmentBookingApp\\DoctorAppointmentBookingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qetiz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

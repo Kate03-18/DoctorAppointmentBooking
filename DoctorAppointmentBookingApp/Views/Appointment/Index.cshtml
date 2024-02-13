@@ -1,0 +1,21 @@
+﻿@model List<DoctorAppointmentBookingApp.Models.Appointment>
+
+<h1>Appointments</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Patient Name</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.PatientName</td>
+                <td>@appointment.Time.ToString("MM/dd/yyyy HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>
